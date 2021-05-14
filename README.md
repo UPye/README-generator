@@ -34,7 +34,7 @@
 
   ## Screenshot
     
-  ![README-Generator](./imgs/README.png)
+  ![README-Generator](https://github.com/UPye/README-generator/blob/main/imgs/README.png)
 
   ## Test
 
