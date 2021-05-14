@@ -22,7 +22,7 @@
   ## Installation
 
   Please install NPM and Inquirer to run this application.  
-  Link to GitHub Repository: https://www.github.com/UPye
+  Link to GitHub Repository: https://www.github.com/UPye/README-Generator
   
   ## Languages
   
@@ -34,11 +34,11 @@
 
   ## Screenshot
     
-  ![README-Generator](https://github.com/UPye/README-generator/blob/main/imgs/README.png)
+  ![README-Generator](./imgs/screenshot.png)
 
   ## Test
 
-  I would like to add additional questions for when others want to attribute to your project.
+  None as of yet.
 
   ## Contributions
 
