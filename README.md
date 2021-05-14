@@ -17,7 +17,7 @@
   
   ## Description
 
-      An easy and effective way to render a README for every project.
+  An easy and effective way to render a README for every project.
   
   ## Installation
 
@@ -30,15 +30,15 @@
   
   ## Usage
 
-  Once NPM and Inquirer is installed, run node index in your terminal to start generating your README file.
+  Once NPM and Inquirer is installed, run node index in your terminal and follow the prompts to generate your README file.
 
   ## Screenshot
     
-  ![README-Generator](./README.md)
+  ![README-Generator](./imgs/README.md)
 
   ## Test
 
-  None as of yet.
+  I would like to add additional questions for when others want to attribute to your project.
 
   ## Contributions
 
