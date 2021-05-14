@@ -17,16 +17,16 @@
   
   ## Description
 
-    An easy and effective way to render a README for every project.
+      An easy and effective way to render a README for every project.
   
   ## Installation
 
-    Please install NPM and Inquirer to run this application.  
+  Please install NPM and Inquirer to run this application.  
   Link to GitHub Repository: https://www.github.com/UPye
   
   ## Languages
   
-  
+  JavaScript,Node
   
   ## Usage
 
@@ -34,7 +34,7 @@
 
   ## Screenshot
     
-  ![README-Generator](./imgs/renderMarkdown)
+  ![README-Generator](./README.md)
 
   ## Test
 
@@ -51,7 +51,7 @@
   Contact via Email: Urika.Pye@gmail.com
 
   ## Credit
-  Google University
+  Google and YouTube University
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
