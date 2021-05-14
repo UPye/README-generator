@@ -2,12 +2,13 @@
 const renderLicenseBadge = require("./renderLicensing");
 const generateMarkdown = (data) => {
   return ` 
-  # ${data.title} 
+  # ${data.name} 
   ${renderLicenseBadge(data.licensing)}
   ## Table of Contents 
   
   * [Description](#description)
   * [Installation](#installation)
+  * [GitHub](#github)
   * [Languages](#languages)
   * [Usage](#usage)
   * [Screenshot](#screenshot)

@@ -5,6 +5,7 @@
   
   * [Description](#description)
   * [Installation](#installation)
+  * [GitHub](#github)
   * [Languages](#languages)
   * [Usage](#usage)
   * [Screenshot](#screenshot)
