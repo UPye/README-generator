@@ -1,20 +1,20 @@
-// Task: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
-function renderLicenseBadge(license) {}
-
-// Task: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) {}
-
-// Task: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {}
+const fs = require('fs');
 
 // Task: Create a function to generate markdown for README
-function generateMarkdown(data) {
-  return `# ${data.title}
+const writeFile = fileContent => {
+  return new Promise((resolve, reject) => {
+    fs.writeFile('./imgs/RenderMarkdown', fileContent, err => {
+      if (err) {
+        reject(err);
+        return;
+      }
 
-`;
-}
+      resolve({
+        ok: true,
+        message: 'README generated!'
+      });
+    });
+  });
+};
 
-module.exports = generateMarkdown;
+module.exports = writeFile;
