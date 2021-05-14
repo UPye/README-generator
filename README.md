@@ -34,7 +34,7 @@
 
   ## Screenshot
     
-  ![README-Generator](./imgs/README.md)
+  ![README-Generator](./imgs/README.png)
 
   ## Test
 
