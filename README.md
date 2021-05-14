@@ -12,7 +12,7 @@
   * [Test](#test)
   * [Contributions](#contributions)
   * [Questions](#questions)
-  * [Credits](#credits)
+  * [Credit](#credit)
   * [License](#license)
   
   ## Description
@@ -21,7 +21,7 @@
   
   ## Installation
 
-    Please install NPM and Inquirer to run this application.    
+    Please install NPM and Inquirer to run this application.  
   Link to GitHub Repository: https://www.github.com/UPye
   
   ## Languages
@@ -34,11 +34,11 @@
 
   ## Screenshot
     
-  ![README-Generator](renderMarkdown)
+  ![README-Generator](./imgs/renderMarkdown)
 
   ## Test
 
-  None as of now.
+  None as of yet.
 
   ## Contributions
 
@@ -50,8 +50,8 @@
   
   Contact via Email: Urika.Pye@gmail.com
 
-  ## Credits
-  undefined
+  ## Credit
+  Google University
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

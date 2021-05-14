@@ -15,7 +15,7 @@ const generateMarkdown = (data) => {
   * [Test](#test)
   * [Contributions](#contributions)
   * [Questions](#questions)
-  * [Credits](#credits)
+  * [Credit](#credit)
   * [License](#license)
   
   ## Description
@@ -53,8 +53,8 @@ const generateMarkdown = (data) => {
   
   Contact via Email: ${data.email}
 
-  ## Credits
-  ${data.credits}
+  ## Credit
+  ${data.credit}
 
   ## License
   ${renderLicenseBadge(data.licensing)}
