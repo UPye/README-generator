@@ -34,7 +34,8 @@
 
   ## Screenshot
     
-  ![README-Generator](./imgs/screenshot.png)
+  ![README-Generator](./imgs/screenshot.png))
+  [Walkthrough Video](https://drive.google.com/file/d/1-bSIJIRSwiL0xY4vH-1mOXtvNTbGgKM1/view)
 
   ## Test
 
